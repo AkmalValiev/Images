@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_vector__5_"
+        />
+
+    <item
+        android:id="@+id/popular"
+        android:title="Popular"
+        android:icon="@drawable/ic_vector__6_"
+        />
+
+    <item
+        android:id="@+id/random"
+        android:title="Random"
+        android:icon="@drawable/ic_vector__7_"
+        />
+
+    <item
+        android:id="@+id/liked"
+        android:title="Liked"
+        android:icon="@drawable/ic_vector__8_"
+        />
+
+    <item
+        android:id="@+id/history"
+        android:title="History"
+        android:icon="@drawable/ic_vector__9_"
+        />
+
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        android:icon="@drawable/ic_vector__10_"
+        />
+
+</menu>

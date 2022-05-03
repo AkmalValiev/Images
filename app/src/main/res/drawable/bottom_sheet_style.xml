@@ -1,0 +1,11 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true" android:state_selected="true">
+        <layer-list>
+            <item android:width="7dp" android:height="7dp" android:bottom="6dp" android:gravity="bottom|center">
+                <shape android:shape="oval" android:tint="@color/pink">
+                    <size android:height="4dp" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>
